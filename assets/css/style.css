@@ -27,7 +27,7 @@ h1 {
     right: 0;
 }
 .progress--bar {
-    background-color: #00FF00;
+    background-color: #ff0000;
     height: 100%;
     transition: all ease .5s;
 }
@@ -93,7 +93,7 @@ h1 {
     margin-bottom: 10px;
 }
 .scorePct {
-    color: #0d630d;
+    color: #630d0d;
     font-size: 30px;
     font-weight: bold;
     margin-bottom: 10px;
